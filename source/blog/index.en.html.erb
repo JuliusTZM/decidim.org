@@ -3,7 +3,7 @@
 
 <div class="blog container container-vertical-top">
   <div class="container--text-col">
-    <% blog.local_articles.each do |article| %>
+    <% blog.articles_by_locale.each do |article| %>
       <article class="post-preview">
         <h2 class="page-title page-title--simplemargin">
           <a href="<%= article.url %>"><%= article.title %></a>

@@ -3,18 +3,15 @@
   image: /images/partners/logo_partner_localret.png
   en:
     desc: Design and frontend development
-  es:
+  hu:
     desc: Design and frontend development
-  ca:
-    desc: Design and frontend development
+
 - name: Tecnopolitica
   url: http://tecnopolitica.net/
   image: /images/partners/logo_partner_tecnopolitica.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Internet Interdisciplinary Institute - IN3
@@ -22,9 +19,7 @@
   image: /images/partners/logo_partner_in3.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: aLabs
@@ -32,9 +27,7 @@
   image: /images/partners/logo_partner_alabs.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Eurecat
@@ -42,9 +35,7 @@
   image: /images/partners/logo_partner_eurecat.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: UPF
@@ -52,9 +43,7 @@
   image: /images/partners/logo_partner_upf.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Fundació Ferrer i Guardia
@@ -62,9 +51,7 @@
   image: /images/partners/logo_partner_ffg.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Bitlab
@@ -72,9 +59,7 @@
   image: /images/partners/logo_partner_bitlab.jpg
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Populate Tools
@@ -82,9 +67,7 @@
   image: /images/partners/logo_partner_populate-tools.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Swwweet
@@ -92,9 +75,7 @@
   image: /images/partners/logo_partner_swwweet.svg
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Open Source Politics
@@ -102,9 +83,7 @@
   image: /images/partners/logo_partner_opensourcepolitics.jpg
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: ASP Gems
@@ -112,9 +91,7 @@
   image: /images/partners/logo_partner_aspgems.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: El Camino del Élder
@@ -122,9 +99,7 @@
   image: /images/partners/logo_partner_elder.jpg
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Adab1ts
@@ -132,9 +107,7 @@
   image: /images/partners/logo_partner_adab1ts.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Codegram
@@ -142,9 +115,7 @@
   image: /images/partners/logo_partner_codegram.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Marsbased
@@ -152,9 +123,7 @@
   image: /images/partners/logo_partner_marsbased.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: CodiTramuntana
@@ -162,9 +131,7 @@
   image: /images/partners/logo_partner_coditramuntana.svg
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Colectic Coop
@@ -172,7 +139,7 @@
   image: /images/partners/logo_partner_colectic.jpg
   en:
     desc: Design and frontend development
-  es:
+  hu:
     desc: Design and frontend development
   ca:
     desc: Design and frontend development
@@ -182,9 +149,7 @@
   image: /images/partners/logo_partner_ethicoo.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
 
 - name: Platoniq
@@ -192,7 +157,5 @@
   image: /images/partners/logo_partner_platoniq.png
   en:
     desc: Design and frontend development
-  es:
-    desc: Design and frontend development
-  ca:
+  hu:
     desc: Design and frontend development
