@@ -1,0 +1,141 @@
+hu:
+  path: ''
+  activeLang: 'Magyar'
+  buttonDemo: 'Online demo'
+  buttonCode: 'Kód a Github -on'
+
+  #Navigation links
+  navText: 'Navigáció'
+  navDemo: 'Demo'
+  navCommunity: 'Közösség'
+  navContract: 'Társadalmi Szerződés'
+  navCode: 'Kód'
+  navDocs: 'Dokumentáció'
+  navDocsPath: 'https://docs.decidim.org/init/en/'
+  navCredits: 'Tulajdonságok és kreditek'
+  navBlog: 'Blog'
+  navFeatures: 'Jellemzők'
+  navFaqs: 'GYIK'
+  navContact: 'Kapcsolat'
+  navUsedBy: 'Decidim használatban'
+  navPartners: 'Együttműködő szervezetek'
+
+  # Index ---
+  ## Alert
+  alert:
+    title: 'DecidimFest :: Demokrácia | Technológia | Jövő :: Barcelona | Október 29-31, 2019 ::'
+    subtitle: 'Irány a DecidimFest'
+    link: https://meta.decidim.org/conferences/decidimfest19
+    desc:
+      'A DecidimFest egy intenzív, 3 napos program, amelyet a Decidim projektnek,
+      részvételi demokráciának és a kollektív intelligencia nyílt forráskódú
+      eszközeinek szentelnek, immár a globális demokrácia korában.'
+  ## Hero
+  heroHeading: 'Szabad Nyílt Forráskódú szoftver a városok és szervezetek részvételi demokráciájáért'
+  heroSubheading: 'Decidim egy digitális platform<br/>az állampolgári részvételért'
+  heroIntro: 'Szabad és ingyenes technológia.<br/>Az összes demokratikus
+  garanciával.<br/>A demokrácia újraprogramozása a Decidimmel lehetséges.'
+  playVideo: 'Videó lejátszása'
+  videoUrl: 'https://www.youtube.com/embed/f6JMgJAQ2tc'
+  closeVideo: 'Videó bezárása'
+  ## Subhero
+  subheroIntro:
+    'A Decidim állampolgároknak, szervezeteknek és közintézményeknek minden
+    szinten segít önmaguk demokratikus újraszervezésében.'
+  subheroFeature1: 'Stratégiai<br/>tervezés'
+  subheroFeature2: 'Részvételi<br/>költségvetés'
+  subheroFeature3: 'Kezdeményezések és<br/>állampolgári konzultációk'
+  subheroFeature4: 'Részvételi<br/>folyamatok'
+  subheroFeature5: 'Gyűlések'
+  subheroFeature6: 'Hálózati<br/>kommunikáció'
+  ## Logo sections
+  logosUsedByTitle: 'Ők már használják a Decidim -et'
+  logosUsedByCta: 'Megnézem mindet'
+  ## CTA Block
+  ctaTitle: 'Kezdd el ma a Decidim használatát'
+  ## Footer
+  footerDrivenByTitle: 'Támogató'
+  footerAttribution: '- Creative Commons By-SA'
+  ##Features
+  feature1Title: 'Részvételi<br/>költségvetések'
+  feature1Content:
+    'A beérkezett javaslatokat elemzi és egy a közös erőforrások elosztásának
+    új módját mutatja.'
+  feature2Title: 'Állampolgári kezdeményezések<br/>és konzultációk'
+  feature2Content:
+    'Erősítsd meg a közösségedet polgári kezdeményezésekkel. Kezdeményezz érdemi
+    szavazást konzultációkon keresztül.'
+  feature3Title: 'A politikai hálózat<br/>hatalma'
+  feature3Content:
+    'Több ezer ember valós idejű részvétele online vitában, együttműködésben,
+    vagy közös döntési folyamatokban.'
+  feature4Title: 'Egy demokratikus<br/>és rugalmas rendszer'
+  feature4Content:
+    'A moduláris arkitektúrának és a skálázható logikának köszönhetően,
+    konfigurálható a demokratikus kormányzás rendszere - rendkívül sokféle
+    szervezetben.'
+  feature5Title: 'A demokráciát<br/>nagyon komolyan vesszük'
+  feature5Content:
+    'A Decidim eddig nem látott módon garantálja az információk áltláthatóságát,
+    a nyomonkövethetőségét és integritását. Biztonságot, adatvédelmet és
+    bizalmasságot nyújt minden résztvevőnek'
+  feature6Title: 'A tiéd is.<br/>Oszd meg. Javítsd, fejleszd.'
+  feature6Content:
+    'A platform teljes egészében szabad szoftverrel tervezve, hála a Metadecidim
+     nyitott és együttműködő közösségének.'
+  featureCta: 'Minden jellemző megtekintése'
+  valuesCta: 'Irány a társadalmi szerződés'
+  # Demo --- translation directly in /localizable/demo.html.erb
+  # Community
+  communityTitle: 'Metadecidim, a mi közösségünk'
+  communitySubtitle: 'Egy demokratikus közösség, amely a Decidim projektet minden dimenziójában igazgatja'
+  communityIntro: 'A Metadecidim egy közösség, amely együttműködik a platform megtervezésében és a projekt felépítésében működik együtt. Együtt tervezhetünk és fejleszthetünk új funkciókat, és jelenthetünk hibákat a platform folyamatos fejlesztése érdekében.'
+  communityCta: 'Fogj neki'
+  communityFeat1Title: 'Javasolj új funkciókat'
+  communityFeat1Subtitle: 'A Decidim tervezése és fejlesztése egybek közt'
+  communityFeat1Text: 'Vitákat indíthatsz a Decidim jövőjéről, vagy új funkciókat vagy fejlesztéseket javasolhatsz. A javaslatok jóváhagyásokat és észrevételeket kaphatnak, például annak érdekében, hogy megmutassák  a közösség érdeklődését a dolog iránt, és értékeljék fejlődésüket. Javaslatoknak, amelyeknek szponzoraik van (például városi tanács vagy bármely más szervezet), amely felelős a fejlesztésük végrehajtásához szükséges erőforrások megkereséséért és biztosításáért, hasznosak lesznek a projektben.'
+  communityFeat1Cta: 'Lépj be és vegyél részt most'
+  communityFeat2Title: 'Hiba jelentése'
+  communityFeat2Subtitle: 'Együttműködés a fokozatos fejlesztés érdekében'
+  communityFeat2Text: 'A Decidim minden új kiadása új funkciókat és használhatósági fejlesztéseket tartalmaz, de először nem minden működik, és hibák jelentkezhetnek. Itt jelentheted a talált hibákat, és segítséget nyújthatsz a fejlesztőknek a gyors javításhoz.'
+  communityFeat2Cta: 'Lépj be és vegyél részt most'
+  communityImgAlt: 'Decidim Community Photo at Metadecidim Meeting 2016'
+  # Community Timeline
+  timelineTitle: 'A funkcionalitások kollaboratív tervezése'
+  timelineStep1Title: 'Új javaslat'
+  timelineStep1Text: 'Funkcionális leírás'
+  timelineStep2Title: 'Érvényes javaslat'
+  timelineStep2Text: 'Műszaki és technopolitikai érvényesítés'
+  timelineStep3Title: 'Tervezett javaslat'
+  timelineStep3Text: 'Erőforrások a fejlesztéshez (megosztott vagy sem)'
+  timelineStep4Title: 'Probléma'
+  timelineStep4Text: 'Technikai leírás'
+  timelineStep5Title: 'Pull kérés'
+  timelineStep5Text: 'Fejlesztett kód'
+  timelineStep6Title: 'A funkcionalitás kész'
+  timelineStep6Text: 'A következő verzióban lesz elérhető'
+  # Social Contract --- translation directly in /localizable/contract.html.erb
+  # Credits --- translation directly in /localizable/credits.html.erb
+  # Documentation --- translation directly in /localizable/docs.html.erb
+  # Features --- Intro texts
+  featuresTitle: 'Jellemzők'
+  featuresIntro:
+    '<p>A Decidim használható köz-, vagy magán intézmények, szervezetek
+    számára egyaránt, legyen szó százas, vagy ezres nagyságrendű potenciális
+    résztvevőről. Használhatják önkormányzatok, vállalkozások, szövetségek,
+    egyetemek, civil szervezetek, szakszervezetek, vagy szomszédsági
+    közösségek, de akár szülői szervezetek, társasaházi közösségek is...</p>
+    <p>A Decidimben különféle részvételi formák állnak rendelkezésre
+    (kezdeményezések, tanácsok, különféle részvételi eljárások vagy
+    konzultációk) és ezek kiegészíthetők sokféle elérhető komponenssel
+    (offline találkozók, kérdőívek, előterjesztések, szavazások, eredmények
+    nyomon követése, megjegyzések stb).</p>'
+  featuresType1Title: 'Terek a részvételért'
+  featuresType1Subtitle: 'A résztvevők számára, hogy javaslatokat tegyenek és döntéseket hozzanak'
+  featuresType2Title: 'Komponensek'
+  featuresType2Subtitle: 'Kapcsolódási terek a résztvevőkért'
+  featuresOtherSubtitle:
+    'Próbáld kombinálni a komponenseket. Tervezz és indíts erős, demokratikus
+    rendszereket könnyedén és szabd az intézményed igényeire'
+  featuresCtaTitle: 'Fedezze fel, a Decidimet mélyégeiben'
+  featuresCta: 'Funkciók és jellemzők'

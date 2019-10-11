@@ -1,5 +1,6 @@
 ---
 ---
+
 <div class="blog container container-vertical-top">
   <div class="container--text-col">
     <% blog.local_articles.each do |article| %>
@@ -14,8 +15,6 @@
         <a href="<%= article.url %>" class="post-preview__more">Read more</a>
       </article>
     <% end %>
-
-    <button id="paginate-control" class="btn btn--primary paginate-control is-paginate-control-hidden">Ver más</button>
-
+    <button id="paginate-control" class="btn btn--primary paginate-control is-paginate-control-hidden">Load more</button>
   </div>
 </div>

@@ -17,16 +17,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "post-es"
     label: "Post (ES)"
-    folder: "source/blog/es"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Draft", name: "published", widget: "hidden", default: "false"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "post-ca"
-    label: "Post (CA)"
-    folder: "source/blog/ca"
+    folder: "source/blog/hu"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
@@ -47,14 +38,8 @@ collections:
             fields:
               - {label: question, name: question, widget: string}
               - {label: answer, name: answer, widget: string}
-          - label: ES
-            name: es
-            widget: list
-            fields:
-              - {label: question, name: question, widget: string}
-              - {label: answer, name: answer, widget: string}
-          - label: CA
-            name: ca
+          - label: HU
+            name: hu
             widget: list
             fields:
               - {label: question, name: question, widget: string}
