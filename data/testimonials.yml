@@ -2,7 +2,7 @@
   name: Gala Pin
   image: /images/testimonials/gala_pin.jpg
   en:
-    org: Barcelona City Hall
+    org: Barcelona City Hall (2015-2019)
     quote:
       Thanks to Decidim, in Barcelona we have managed to co-produce a strategic
       city plan together with the citizens. In 2016 we inaugurated the Municipal
@@ -12,12 +12,12 @@
       monitor at all times the state of implementation of the approved
       proposals.
   hu:
-    org: Barcelona-i városháza
+    org: Barcelona Városháza (2015-2019)
     quote:
       A Decidimnek köszönhetően Barcelonában sikerült közösen készítenünk egy
       stratégiai tervet a polgárokkal. 2016-ban a Decidim Barcelona-n keresztül
-      részvételi folyamat formájában megkezdtük az önkormányzati cselekvési tervet.
-      Jelenleg ez a terv közel 7 ezer állampolgári javaslatot tartalmaz.
+      részvételi folyamat formájában megkezdtük az önkormányzati cselekvési
+      tervet. Jelenleg ez a terv közel 7 ezer állampolgári javaslatot tartalmaz.
       Ennek a platformnak az egyik előnye, hogy bármikor figyelemmel kísérheti
       a jóváhagyott javaslatok végrehajtásának állapotát.
 - testimonial2:
@@ -42,41 +42,20 @@
       közgyűlésének új otthont adva. Néhány hónappal később többek között
       megvitattuk a Som Energia Iskola közös fejlesztését, és az iskola
       arculati újratervezését. Néhány hónap múlva több mint 3500 résztvevő
-      regisztrált, 5 részvételi folyamatot és 3 közgyűlést működtetünk és több
+      regisztrált, 5 részvételi folyamatot és 3 közgyűlést működtetünk és több,
       mint 1300 szavazatot kezeltünk az utolsó közgyűlés szavazásánál.
-- testimonial3:
-  name: Ismael Peña
-  image: /images/testimonials/ismael_pena.jpg
-  en:
-    org: Generalitat de Catalunya
-    quote:
-      Decidim is a key tool in the strategy of citizen participation of the
-      Generalitat de Catalunya. Beyond offering a platform to facilitate online
-      participation, Decidim is a fundamental instrument of knowledge management
-      and participation that, in addition, incorporates values, methodologies
-      and a multipurpose set of tools with a high potential for transforming the
-      relationship between the Administration and the citizen.
-  hu:
-    org: Generalitat de Catalunya
-    quote:
-      A Decidim a polgárok részvételi stratégiájának kulcsfontosságú eszköze a
-      Generalitat de Catalunya -nál. Azon kívül, hogy egy platformot kínál
-      az online részvétel megkönnyítéshez, a Decidim a tudásmenedzsment és
-      részvétel alapvető eszköze, amely emellett értékeket és módszertant is
-      magában foglal és egy nagy lehetőségel bíró többcélú eszközkészlet
-      a közigazgatás és az állampolgárok közötti kapcsolat átformálásához.
 - testimonial4:
   name: Renán A. Barrera Concha
   image: /images/testimonials/renain_barrera.jpg
   en:
     org: Municipal President of Mérida Yucatán, Mexico. City Council of Mérida Yucatán, Mexico
     quote:
-      The Decide Mérida digital platform was an opportunity that opened as never
-      before the mechanisms of citizen participation for the elaboration of the
-      Municipal Development Plan of Mérida 2018-2021. We had more than 3,000 citizen
-      interactions including proposals, comments, suggestions and support that
-      achieving the highest consensus possible about what is best for our city.
-      Undoubtedly, the Decide Mérida platform will continue to be our ally in making
+      The Decide Mérida digital platform was an opportunity that opened as never 
+      before the mechanisms of citizen participation for the elaboration of the 
+      Municipal Development Plan of Mérida 2018-2021. We had more than 3,000 citizen 
+      interactions including proposals, comments, suggestions and support that 
+      achieving the highest consensus possible about what is best for our city. 
+      Undoubtedly, the Decide Mérida platform will continue to be our ally in making 
       Mérida an increasingly participative society.
   hu:
     org: Mérida Yucatán önkormányzati elnök, Mexikó.
@@ -86,7 +65,43 @@
       nyílt meg a polgárok részvételének mechanizmusai előtt a Mérida önkormányzati
       fejlesztési tervének 2018-2021 időszakára. Több mint 3000 polgári interakciót,
       ideértve javaslatokat, megjegyzéseket, javaslatokat és támogatást számolunk a
-      lehető legmagasabb konszenzus elérése abban, ami a mi városunk számára a legjobb.
+      lehető legmagasabb konszenzus elérése abban, ami a városunk számára a legjobb.
       Kétségtelen, hogy a Decide Mérida platform továbbra is szövetségesünk
       lesz a döntéshozatalban, hogy Mérida -t egyre inkább részvételen alapuló
       társadalommá tegyük.
+- testimonail5:
+  name: Katja Hentonnen
+  image:  /images/testimonials/katja_hentonnen.jpg
+  en:
+    org: City of Helsinki
+    quote:
+      What we appreciate is that it’s built with democracy in mind and therefore 
+      democracy is a big focus. Democratic principles such as accountability, equality 
+      and transparency are in the core of the design.
+  hu:
+    org: Helsinki Városháza
+    quote:
+      Nagyra értékeljük, hogy a demokrácia szem előtt tartásával épült fel, és ezért
+      a demokrácia nagy hangsúlyt kap benne. A demokratikus alapelvek, mint például az
+      elszámoltathatóság, az egyenlőség és az átláthatóság a tervezés lényege.
+- testimonail6:
+  name: Alejandra González
+  image:  /images/testimonials/alejandra_gonzalez.jpg
+  en:
+    org: Open Government of Mexico City
+    quote: 
+      Almost every participatory process that has come to our table, we have been able 
+      to solve it using Decidim's business rules. As a tool, it is a very strong one. 
+      However, the part that seems strongest and most important to us is its community, 
+      both developers and those who use it for participatory processes. Coexisting with 
+      them has made us appreciate the challenges involved in implementing participatory 
+      democracy in the real world.
+  hu:
+    org: Mexikóváros Nyílt Közigazgatása
+    quote:
+      Szinte minden asztalunkhoz eljutott részvételi folyamatot képesek voltunk
+      megoldani a Decidim üzleti szabályait használva. Mint eszköz, ez egy nagyon erős
+      eszköz. Azonban számunkra a legerősebbnek és a legfontosabbnak a közösség tűnik,
+      együtt a fejlesztőkkel és a részvételi folyamatokban résztvevőkkel. A velük való
+      együttlét arra késztett minket, hogy méltányoljuk a részvételi demokrácia
+      végrehajtásának kihívásait a való világban.

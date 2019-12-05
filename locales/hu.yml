@@ -36,7 +36,7 @@ hu:
   heroIntro: 'Szabad és ingyenes technológia.<br/>Az összes demokratikus
   garanciával.<br/>A demokrácia újraprogramozása a Decidimmel lehetséges.'
   playVideo: 'Videó lejátszása'
-  videoUrl: 'https://www.youtube.com/embed/f6JMgJAQ2tc'
+  videoUrl: 'https://www.youtube.com/embed/XTRrm9Hxs10'
   closeVideo: 'Videó bezárása'
   ## Subhero
   subheroIntro:
@@ -78,7 +78,7 @@ hu:
   feature5Content:
     'A Decidim eddig nem látott módon garantálja az információk áltláthatóságát,
     a nyomonkövethetőségét és integritását. Biztonságot, adatvédelmet és
-    bizalmasságot nyújt minden résztvevőnek'
+    bizalmasságot nyújt minden résztvevőnek.'
   feature6Title: 'A tiéd is.<br/>Oszd meg. Javítsd, fejleszd.'
   feature6Content:
     'A platform teljes egészében szabad szoftverrel tervezve, hála a Metadecidim
